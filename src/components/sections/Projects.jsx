@@ -6,10 +6,10 @@ import ProjectCard from "../cards/ProjectCard.jsx";
 const Container = styled.div`
   display: flex;
   flex-direction: column;
-  justify-contnet: center;
+  justify-content: center;
   margin-top: 50px;
   padding: 0px 16px;
-  position: rlative;
+  position: relative;
   z-index: 1;
   align-items: center;
 `;

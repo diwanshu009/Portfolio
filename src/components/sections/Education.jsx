@@ -8,8 +8,8 @@ import EarthCanvas from "../Canvas/Earth";
 const Container = styled.div`
   display: flex;
   flex-direction: column;
-  justify-contnet: center;
-  position: rlative;
+  justify-content: center;
+  position: relative;
   z-index: 1;
   align-items: center;
 `;
