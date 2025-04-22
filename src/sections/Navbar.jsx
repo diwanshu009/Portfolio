@@ -6,7 +6,7 @@ function Navigation({ onClick }) {
         { href: "#home", label: "Home" },
         { href: "#about", label: "About" },
         { href: "#projects", label: "Projects" },
-        { href: "#experiences", label: "Experience" },
+        { href: "#experiences", label: "Journey" },
         { href: "#contact", label: "Contact" },
     ];
 
